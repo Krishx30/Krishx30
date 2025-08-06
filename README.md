@@ -1,16 +1,23 @@
-## Hi there 👋
+ Hi there, I'm Krishna Kashyap!
 
-<!--
-**Krishx30/Krishx30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year BTech CSE student @ UPES Dehradun  
+💻 Learning Python, Git, and Web Development  
+🧠 Exploring Data Structures & Algorithms  
+🚀 My goal: To graduate with pride and purpose
 
-Here are some ideas to get you started:
+🔧 Tools & Technologies
+- Programming: Python, C (learning)
+- Web: HTML, CSS, Git, GitHub
+- Currently exploring: Problem Solving (LeetCode), Front-End Dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Recent Highlights
+- ✅ Created my GitHub profile & first repository
+- ✅ Started solving coding problems
+- ✅ Building my personal portfolio website
+
+📫 Connect with me!
+www.linkedin.com/in/krishna-kashyap-11b125365
+
+---
+
+> “Consistency is more powerful than perfection.”
