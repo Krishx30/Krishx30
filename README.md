@@ -1,12 +1,12 @@
  Hi there, I'm Krishna Kashyap!
 
 🎓 First-year BTech CSE student @ UPES Dehradun  
-💻 Learning C,Python, Git, and Web Development  
+💻 Learning C,Python,Java Git, and Web Development  
 🧠 Exploring Data Structures & Algorithms  
 🚀 My goal: To graduate with pride and purpose
 
 🔧 Tools & Technologies
-- Programming: Python, C (learning)
+- Programming: Python, Java C (learning)
 - Web: HTML, CSS, Git, GitHub
 - Currently exploring: Problem Solving (LeetCode), Front-End Dev
 
