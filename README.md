@@ -1,15 +1,28 @@
-# Krishna Kashyap
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=26&duration=3000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Krishna+Kashyap;Building+Intelligent+Systems;Smart+Travel+Planner+Developer" />
+</p>
 
-B.Tech Computer Science Engineering student at UPES Dehradun.  
-Focused on building intelligent systems, strong problem-solving skills, and real-world projects.
+<h2 align="center">Krishna Kashyap</h2>
+
+<p align="center">
+B.Tech Computer Science Engineering student @ UPES Dehradun <br>
+Focused on intelligent systems, problem solving, and real-world applications
+</p>
 
 ---
 
-## Current Focus
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishx30&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Krishx30&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## Focus Areas
 
 - Data Structures & Algorithms  
-- Python and System Design Fundamentals  
-- Building practical AI-driven applications  
+- Python & System Design Fundamentals  
+- Building AI-driven applications  
 
 ---
 
@@ -17,43 +30,50 @@ Focused on building intelligent systems, strong problem-solving skills, and real
 
 ### Travel IQ — Smart Itinerary Planner
 
-An intelligent travel planning system that generates realistic, constraint-aware itineraries.
+A structured travel planning system that generates realistic, constraint-aware itineraries.
 
-- Time-slot based scheduling (morning / afternoon / evening)
-- Budget-aware optimization
-- Fatigue and crowd balancing
-- Day personality system (explore, relaxed, adventure, cultural)
-- Clean GUI with structured day-wise flow
+- Time-slot based scheduling (morning / afternoon / evening)  
+- Budget-aware optimization  
+- Fatigue and crowd balancing  
+- Day personality system (explore, relaxed, adventure, cultural)  
+- Clean GUI with structured day-wise flow  
 
 This project focuses on solving a real-world planning problem using structured decision logic rather than simple recommendations.
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 **Languages**  
-Python, C, Java (learning)
+Python • C • Java (learning)
 
-**Core Areas**  
-Data Structures, Algorithms, Problem Solving
+**Core Concepts**  
+Data Structures • Algorithms • Problem Solving
 
 **Tools**  
-Git, GitHub, Basic Web Development
+Git • GitHub • Basic Web Development
 
 ---
 
-## Work in Progress
+## Currently Working On
 
-- Improving problem-solving consistency (DSA)
-- Building stronger project architecture
-- Preparing for advanced studies in Computer Science
+- Improving DSA consistency  
+- Strengthening project architecture  
+- Preparing for advanced CS studies  
 
 ---
 
 ## Connect
 
-LinkedIn: https://www.linkedin.com/in/krishna-kashyap-11b125365
+LinkedIn:  
+https://www.linkedin.com/in/krishna-kashyap-11b125365
 
 ---
 
-"Consistency builds everything."
+<p align="center"><i>"Consistency builds everything."</i></p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/Krishx30/Krishx30/blob/output/github-contribution-grid-snake.svg" />
+</p>
