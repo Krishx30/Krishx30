@@ -1,23 +1,59 @@
- Hi there, I'm Krishna Kashyap!
+# Krishna Kashyap
 
-🎓 First-year BTech CSE student @ UPES Dehradun  
-💻 Learning C,Python,Java Git, and Web Development  
-🧠 Exploring Data Structures & Algorithms  
-🚀 My goal: To graduate with pride and purpose
-
-🔧 Tools & Technologies
-- Programming: Python, Java C (learning)
-- Web: HTML, CSS, Git, GitHub
-- Currently exploring: Problem Solving (LeetCode), Front-End Dev
-
-📚 Recent Highlights
-- ✅ Created my GitHub profile & first repository
-- ✅ Started solving coding problems
-- ✅ Building my personal portfolio website
-
-📫 Connect with me!
-www.linkedin.com/in/krishna-kashyap-11b125365
+B.Tech Computer Science Engineering student at UPES Dehradun.  
+Focused on building intelligent systems, strong problem-solving skills, and real-world projects.
 
 ---
 
-> “Consistency is more powerful than perfection.”
+## Current Focus
+
+- Data Structures & Algorithms  
+- Python and System Design Fundamentals  
+- Building practical AI-driven applications  
+
+---
+
+## Featured Project
+
+### Travel IQ — Smart Itinerary Planner
+
+An intelligent travel planning system that generates realistic, constraint-aware itineraries.
+
+- Time-slot based scheduling (morning / afternoon / evening)
+- Budget-aware optimization
+- Fatigue and crowd balancing
+- Day personality system (explore, relaxed, adventure, cultural)
+- Clean GUI with structured day-wise flow
+
+This project focuses on solving a real-world planning problem using structured decision logic rather than simple recommendations.
+
+---
+
+## Technical Skills
+
+**Languages**  
+Python, C, Java (learning)
+
+**Core Areas**  
+Data Structures, Algorithms, Problem Solving
+
+**Tools**  
+Git, GitHub, Basic Web Development
+
+---
+
+## Work in Progress
+
+- Improving problem-solving consistency (DSA)
+- Building stronger project architecture
+- Preparing for advanced studies in Computer Science
+
+---
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/krishna-kashyap-11b125365
+
+---
+
+"Consistency builds everything."
