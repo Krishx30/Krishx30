@@ -74,6 +74,4 @@ https://www.linkedin.com/in/krishna-kashyap-11b125365
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Krishx30/Krishx30/blob/output/github-contribution-grid-snake.svg" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/Krishx30/Krishx30/output/dist/github-contribution-grid-snake.svg)
