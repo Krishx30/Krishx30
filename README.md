@@ -1,16 +1,32 @@
-# Krishna Kashyap
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Krishna+Kashyap;Computer+Science+Student;Focused+on+Algorithms+and+Systems" />
+</p>
 
-B.Tech Computer Science Engineering — UPES Dehradun (First Year)
+<h1 align="center">Krishna Kashyap</h1>
 
-Focused on building strong fundamentals in algorithms, problem solving, and system design.
+<p align="center">
+<i>B.Tech Computer Science Engineering · UPES Dehradun</i>
+</p>
+
+<p align="center">
+Building strong fundamentals in algorithms, problem solving, and system design.
+</p>
 
 ---
 
-## What I'm Working On
+## About
+
+I am focused on developing a strong foundation in core computer science.  
+I prioritize understanding concepts deeply, writing clean code, and building disciplined thinking.
+
+---
+
+## Work
 
 - Practicing Data Structures & Algorithms daily  
-- Improving problem-solving approach and coding discipline  
-- Exploring how real-world systems are designed and scaled  
+- Strengthening problem-solving approach and coding discipline  
+- Studying system design fundamentals  
+- Building projects based on structured logic and constraints  
 
 ---
 
@@ -18,38 +34,60 @@ Focused on building strong fundamentals in algorithms, problem solving, and syst
 
 **Smart Itinerary Planning System**
 
-Built a constraint-based system that generates travel plans under budget, time, and preference limits.  
-Focused on structuring the logic properly rather than just making it work.
+A constraint-based planning system that generates travel itineraries under budget, time, and preference limits.
+
+- Time-based scheduling  
+- Budget-aware allocation  
+- Constraint satisfaction  
+- Structured decision logic  
+
+Focus: scheduling · optimization · system design
 
 ---
 
-## Technical Skills
+## Skills
 
-| Category       | Details                                      |
-|----------------|----------------------------------------------|
-| **Languages**  | Python, C, Java (in progress)                |
-| **CS Core**    | Data Structures, Algorithms, Problem Solving |
-| **Tools**      | Git, GitHub, Basic Web Development           |
+**Languages**  
+Python · C · Java (learning)
+
+**Core Concepts**  
+Data Structures · Algorithms · Problem Solving
+
+**Tools**  
+Git · GitHub
 
 ---
 
 ## Direction
 
-Working towards becoming a strong software engineer with solid fundamentals in algorithms and systems.
+Working towards becoming a strong software engineer with deep understanding of:
+
+- Algorithms  
+- Optimization  
+- System Design  
+
+Long-term goal is to build intelligent, scalable systems.
 
 ---
 
-## GitHub Stats
+## GitHub
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishx30&show_icons=true&hide_border=true" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishx30&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
 </p>
 
 ---
 
-## Contact
+## Connect
 
-LinkedIn:  
-https://www.linkedin.com/in/krishna-kashyap-11b125365
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishna-kashyap-11b125365">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-<sub>Last updated: 2026 · Open to internship opportunities and research collaborations</sub>
+---
+
+<p align="center">
+<i>"Consistency builds everything."</i>
+</p>
